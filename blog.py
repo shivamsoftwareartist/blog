@@ -1,0 +1,2 @@
+f= abcd
+print(f)
